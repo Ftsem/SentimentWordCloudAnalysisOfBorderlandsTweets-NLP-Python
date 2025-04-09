@@ -14,10 +14,9 @@ The sentiment of each tweet was analyzed using the **TextBlob** library. Tweets 
 In the following the pie chart that shows the sentiment distribution of the tweets:
 
 Positive tweets: 56.1%
-
 Negative tweets: 26.6%
-
 Neutral tweets: 17.3%
+
 ![](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143351.png)
 
 ### Word Cloud Generation
