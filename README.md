@@ -1,13 +1,8 @@
 
 # Sentiment & Word Cloud Analysis of Borderlands Tweets
 
-This project analyzes tweets about the popular game *Borderlands* to determine the general sentiment of the community. It uses sentiment analysis and word cloud visualization to provide insights into player feedback.
+In this project, I analyzed tweets about the popular game Borderlands to determine the general sentiment of the community. I used sentiment analysis and word cloud visualization to provide insights into player feedback. The dataset contains over 2000 tweets about Borderlands, and the data was preprocessed to remove duplicates, null values, mentions, and special characters. I chose sentiment analysis to capture the emotional tone of the community, helping to determine whether players' feedback is positive, negative, or neutral. This approach provides a quick understanding of the overall mood toward the game. Word cloud analysis was used to visually highlight the most frequently mentioned words in both positive and negative tweets, allowing me to identify key themes and topics that players are discussing. Together, these methods offer a comprehensive view of player experiences, highlighting both the aspects they enjoy and the areas where they face issues.
 
-## Dataset
-
-The dataset contains over 2000 tweets about *Borderlands*. The data was preprocessed to remove duplicates, null values, mentions, and special characters.
-
-## Methods
 
 # Sentiment Analysis
 The sentiment of each tweet was analyzed using the **TextBlob** library. Tweets were classified as **positive**, **negative**, or **neutral** based on the polarity score.
