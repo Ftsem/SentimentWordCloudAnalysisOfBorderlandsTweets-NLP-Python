@@ -16,6 +16,7 @@ In the following the pie chart that shows the sentiment distribution of the twee
 
 ![](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143351.png)
 
+---
 ### Word Cloud Generation
 **WordCloud** was used to generate visual representations of the most frequent words in positive and negative tweets.
 
