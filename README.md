@@ -1,4 +1,4 @@
-# Sentiment-Word-Cloud-Analysis-of-Borderlands-Tweets-NLP-Python
+
 # Sentiment & Word Cloud Analysis of Borderlands Tweets
 
 This project analyzes tweets about the popular game *Borderlands* to determine the general sentiment of the community. It uses sentiment analysis and word cloud visualization to provide insights into player feedback.
