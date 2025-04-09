@@ -9,7 +9,7 @@ The dataset contains over 2000 tweets about *Borderlands*. The data was preproce
 
 ## Methods
 
-### Sentiment Analysis
+# Sentiment Analysis
 The sentiment of each tweet was analyzed using the **TextBlob** library. Tweets were classified as **positive**, **negative**, or **neutral** based on the polarity score.
 In the following the pie chart that shows the sentiment distribution of the tweets:
 
@@ -17,7 +17,7 @@ In the following the pie chart that shows the sentiment distribution of the twee
 ![](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143351.png)
 
 ---
-### Word Cloud Generation
+# Word Cloud Generation
 **WordCloud** was used to generate visual representations of the most frequent words in positive and negative tweets.
 
 
@@ -25,25 +25,25 @@ In the following the pie chart that shows the sentiment distribution of the twee
   ![Positive Tweets Word Cloud](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143420.png)
 
   
-### Frequent Keywords:
+### Frequent Keywords
 The word "borderland" appears prominently, indicating a strong connection to the game. Other words like "thank," "love," "excited," "played," "fun," and "good" suggest a positive and enthusiastic response from users.
 
-### Key Themes:
+### Key Themes
 Most of the tweets in this category are expressing excitement and enjoyment related to the game. Words such as "stream," "play," "character," and "dlc" (downloadable content) show that users are talking about the game's features and their experiences.
 
-### Sentiments:
+### Sentiments
 Overall, the sentiment is positive, and users seem to be sharing their excitement and happiness about the game.
 
 ---
   ![Negative Tweets Word Cloud](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143430.png)
 
-### Frequent Keywords:
+### Frequent Keywords
 Words like "hate," "fucking," "shitty," and "fuck" dominate, indicating strong frustration. Other terms such as "crashes," "problems," "xbox," "pc," and "back" suggest issues related to technical problems or the gaming platform.
 
-### Key Themes:
+### Key Themes
 Many of the tweets seem to express dissatisfaction with the technical aspects of the game, including crashes, bugs, or issues with gameplay, especially on platforms like PC and Xbox. "Fix," "stream," "game," and "video" indicate that players are calling for improvements.
 
-### Sentiments:
+### Sentiments
 The sentiment here is negative, with users expressing frustration over technical difficulties and their gaming experience.
 
 ---
