@@ -13,7 +13,6 @@ In the following the pie chart that shows the sentiment distribution of the twee
 
 ---
 # Word Cloud Generation
-**WordCloud** was used to generate visual representations of the most frequent words in positive and negative tweets.
 
 
 
