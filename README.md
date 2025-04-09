@@ -19,7 +19,7 @@ In the following the pie chart that shows the sentiment distribution of the twee
 ### Word Cloud Generation
 **WordCloud** was used to generate visual representations of the most frequent words in positive and negative tweets.
 
-# Positive Tweets Word Cloud Analysis
+
 
   ![Positive Tweets Word Cloud](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143420.png)
 
@@ -33,7 +33,6 @@ Most of the tweets in this category are expressing excitement and enjoyment rela
 ### Sentiments:
 Overall, the sentiment is positive, and users seem to be sharing their excitement and happiness about the game.
 
-# Negative Tweets Word Cloud Analysis
 
   ![Negative Tweets Word Cloud](https://github.com/Ftsem/SentimentWordCloudAnalysisOfBorderlandsTweets-NLP-Python/blob/9c571143e5b50f13b9a68d6ee8dc1130afa87d4e/Assets/Screenshot%202025-04-09%20143430.png)
 
